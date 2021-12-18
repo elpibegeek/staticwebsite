@@ -5,6 +5,7 @@
     "home_page_url": "https://elpibegeek.github.io/staticwebsite",
     "feed_url": "https://elpibegeek.github.io/staticwebsite/feed.json",
     "user_comment": "",
+    "icon": "https://elpibegeek.github.io/staticwebsite/media/website/EGPWEBSITEAsset-17-min-2.png",
     "author": {
         "name": "Gonza, elpibegeek"
     },
@@ -12,16 +13,17 @@
         {
             "id": "https://elpibegeek.github.io/staticwebsite/estoy-testeando.html",
             "url": "https://elpibegeek.github.io/staticwebsite/estoy-testeando.html",
-            "title": "Estoy testeando!",
-            "summary": " Hola ",
-            "content_html": "\n  <p>\n    Hola\n  </p>",
+            "title": "Estoy en la web 3.0!",
+            "summary": " Hola. Este es mi primer post realizado en una red descentralizada con un dominio permanente ",
+            "content_html": "\n  <p>\n    Hola. Este es mi primer post realizado en una red descentralizada con un dominio permanente\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://elpibegeek.github.io/staticwebsite/media/posts/1/pexels-designecologist-1510659-min.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://elpibegeek.github.io/staticwebsite/media/posts/1/responsive/pexels-designecologist-1510659-min-xs.jpg 300w ,https://elpibegeek.github.io/staticwebsite/media/posts/1/responsive/pexels-designecologist-1510659-min-sm.jpg 480w ,https://elpibegeek.github.io/staticwebsite/media/posts/1/responsive/pexels-designecologist-1510659-min-md.jpg 768w\"  height=\"2848\" width=\"4272\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://elpibegeek.github.io/staticwebsite/media/posts/1/pexels-designecologist-1510659-min-2.jpg",
             "author": {
                 "name": "Gonza, elpibegeek"
             },
             "tags": [
             ],
             "date_published": "2021-12-18T16:16:52-03:00",
-            "date_modified": "2021-12-18T16:16:52-03:00"
+            "date_modified": "2021-12-18T16:33:21-03:00"
         }
     ]
 }

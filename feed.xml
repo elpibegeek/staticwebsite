@@ -3,32 +3,39 @@
     <title>Elpibegeek blog 3.0</title>
     <link href="https://elpibegeek.github.io/staticwebsite/feed.xml" rel="self" />
     <link href="https://elpibegeek.github.io/staticwebsite" />
-    <updated>2021-12-18T16:16:52-03:00</updated>
+    <updated>2021-12-18T16:33:21-03:00</updated>
     <author>
         <name>Gonza, elpibegeek</name>
     </author>
     <id>https://elpibegeek.github.io/staticwebsite</id>
 
     <entry>
-        <title>Estoy testeando!</title>
+        <title>Estoy en la web 3.0!</title>
         <author>
             <name>Gonza, elpibegeek</name>
         </author>
         <link href="https://elpibegeek.github.io/staticwebsite/estoy-testeando.html"/>
         <id>https://elpibegeek.github.io/staticwebsite/estoy-testeando.html</id>
 
-        <updated>2021-12-18T16:16:52-03:00</updated>
+        <updated>2021-12-18T16:33:21-03:00</updated>
             <summary>
                 <![CDATA[
-                     Hola 
+                        <img src="https://elpibegeek.github.io/staticwebsite/media/posts/1/pexels-designecologist-1510659-min-2.jpg" alt="" />
+                     Hola. Este es mi primer post realizado en una red descentralizada con un dominio permanente 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://elpibegeek.github.io/staticwebsite/media/posts/1/pexels-designecologist-1510659-min-2.jpg" alt="" />
                 
   <p>
-    Hola
+    Hola. Este es mi primer post realizado en una red descentralizada con un dominio permanente
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://elpibegeek.github.io/staticwebsite/media/posts/1/pexels-designecologist-1510659-min.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://elpibegeek.github.io/staticwebsite/media/posts/1/responsive/pexels-designecologist-1510659-min-xs.jpg 300w ,https://elpibegeek.github.io/staticwebsite/media/posts/1/responsive/pexels-designecologist-1510659-min-sm.jpg 480w ,https://elpibegeek.github.io/staticwebsite/media/posts/1/responsive/pexels-designecologist-1510659-min-md.jpg 768w"  height="2848" width="4272" alt="" />
+      
+    </figure>
             ]]>
         </content>
     </entry>
